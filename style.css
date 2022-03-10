@@ -329,6 +329,12 @@ padding: 80px;
 
 @media (max-width: 700px){ /*Celulares*/
 
+    /*--navegacion--------------------*/
+
+    .navbar_btn_responsive{
+        display: block;
+    }
+
     /*-baner--------------------------------------------------*/
 
     .banner_title{
