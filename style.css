@@ -331,9 +331,27 @@ padding: 80px;
 
     /*--navegacion--------------------*/
 
+
+    .navbar_menu{
+        justify-content: right;
+    }
+
+    
+    .navbar_menu_option{
+        display: none;
+    }
+
     .navbar_btn_responsive{
         display: block;
+        padding: 10px;
     }
+
+    .navbar_btn_responsive svg{
+        width: 100%;
+        height: 35px;
+        fill: rgb(240, 139, 57);
+    }
+
 
     /*-baner--------------------------------------------------*/
 
