@@ -315,13 +315,13 @@ padding: 80px;
 @media (max-width: 820px){ /*tablets*/
 
     .producto_especie h5{
-        font-size: 15px;
+        font-size: 12px;
       
     
     }
     
     .producto_especie h3{
-        font-size: 15px;
+        font-size: 12px;
        
     }
 
