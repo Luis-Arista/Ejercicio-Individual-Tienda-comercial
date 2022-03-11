@@ -136,7 +136,13 @@ header{
 
 .producto_title{
     border-bottom: 1px solid rgb(240, 139, 57);
+    flex: 1 1 0%;
 
+
+}
+
+.producto_description{
+    flex: 1 1 0%;
 }
 
 .producto_especie{
